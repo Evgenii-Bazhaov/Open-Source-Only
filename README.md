@@ -30,7 +30,7 @@ HackSquad allows contributors to contribute code **as a squad** instead of a sin
   <a href="https://hacksquad.dev">SIGN UP TO HACKSQUAD 2023 🚀</a>
 </p>
 <p align="center">
-  <a href="https://github.com/thecyberbuzz/anycode/issues">Raise Your Issue Here 🔴</a>
+  <a href="https://github.com/Evgenii-Bazhaov/issues">Raise Your Issue Here 🔴</a>
 </p>
 
 ## Join the party
