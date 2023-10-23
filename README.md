@@ -35,7 +35,7 @@ HackSquad allows contributors to contribute code **as a squad** instead of a sin
 
 ## Join the party
 
-Dive into last year's SWAG of Hacksquad with tweets! Relive the excitement, innovation, and highlights that made it unforgettable.
+Divine into last year's SWAG of Hacksquad with tweets! Relive the excitement, innovation, and highlights that made it unforgettable.
 
 <a href="https://www.hacksquad.dev/#swag">
   </br>
